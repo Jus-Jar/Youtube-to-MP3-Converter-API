@@ -26,9 +26,13 @@ Media Applications: This API is for the integration into the Vyber companion mus
 
 ## Dependencies
 To install Dependencies, run the command:
+```
 $ pip install -r requirements.txt
-
+```
 ## Resources
 
 ### Postman Collection
 https://documenter.getpostman.com/view/30202529/2sAXqv6gMU
+
+### YT-DLP Github
+https://github.com/yt-dlp/yt-dlp
